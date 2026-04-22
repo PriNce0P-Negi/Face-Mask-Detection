@@ -18,7 +18,7 @@ This project focuses on detecting whether a person is wearing a face mask in rea
 ## Project Structure
 - `train_model.py` – Script used for training the model  
 - `detect_mask.py` – Script for real-time mask detection  
-- `utils.py` – Utility functions for preprocessing and transformations  
+- `utils.py` – Utility functions for preprocessing and transformations 
 
 ## Note
 The dataset used for training is not included in this repository due to size limitations.

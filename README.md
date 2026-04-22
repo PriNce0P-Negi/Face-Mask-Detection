@@ -23,9 +23,6 @@ This project focuses on detecting whether a person is wearing a face mask in rea
 ## Note
 The dataset used for training is not included in this repository due to size limitations.
 
-## Output
-You can add screenshots or sample outputs here to demonstrate the working of the system.
-
 ## Authors
 - Prince Negi  
 - Kshitiz Negi  
